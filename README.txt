@@ -49,3 +49,7 @@ Link to jupyter notebook:
 Link to the dataset:
 /capstone_project/data
 
+figures:
+1. confusion matrix - conf_matrix_rf_530.png
+2. comparison between actual and prediction - pred_diff_rf.png
+
